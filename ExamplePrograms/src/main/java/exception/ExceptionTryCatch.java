@@ -13,7 +13,8 @@ public class ExceptionTryCatch {
 		{
 			System.out.println(e);
 		}
-		System.out.println("hello");
+		System.out.println("Good Morning");
+		
 
 	}
 
