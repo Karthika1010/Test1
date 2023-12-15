@@ -8,7 +8,7 @@ public class EncapsulationTest {
 		Account ac=new Account();
 		ac.setAcc_no(123456);
 		ac.setName("vasudev");
-		ac.setAmount(1243.50f);
+		ac.setAmount(11111.50f);
 		System.out.println("Account number is:"+ac.getAcc_no());
 		System.out.println("Name is:"+ac.getName());
 		System.out.println("Amount is:"+ac.getAmount());
